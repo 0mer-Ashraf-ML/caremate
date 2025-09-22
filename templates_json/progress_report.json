@@ -1,0 +1,178 @@
+{
+	"participant_details": {
+		"name": "",
+		"ndis_number": "",
+		"plan_start_date": "",
+		"plan_end_date": ""
+	},
+	"provider_details": {
+		"provider_name": "",
+		"person_completing": "",
+		"phone": "",
+		"email": ""
+	},
+	"engagement": {
+		"contact_frequency": "",
+		"nominated_contact": "",
+		"primary_contact_method": "",
+		"primary_contact_details": "",
+		"secondary_contact_method": "",
+		"secondary_contact_details": "",
+		"other_key_contact": "",
+		"other_key_contact_details": ""
+	},
+	"participant_goals": [
+		{
+			"goal": "Build confidence to complete daily living tasks and improve gross motor skills for independence",
+			"progress_rating": "",
+			"coordinator_comments": ""
+		},
+		{
+			"goal": "Improve mobility and learn strategies to manage emotions for participation in activities of choice",
+			"progress_rating": "",
+			"coordinator_comments": ""
+		},
+		{
+			"goal": "Work towards obtaining driver’s licence to improve independence and employment opportunities",
+			"progress_rating": "",
+			"coordinator_comments": ""
+		},
+		{
+			"goal": "Build social connections through structured community activities and peer support programs",
+			"progress_rating": "",
+			"coordinator_comments": ""
+		}
+	],
+	"celebrations": "",
+	"new_community_supports": [
+		{
+			"support_name": "Peers Program (Social Skills)",
+			"coordinator_comments": ""
+		},
+		{
+			"support_name": "Minds at Play (Gaming-based social program)",
+			"coordinator_comments": ""
+		},
+		{
+			"support_name": "Local animal therapy or volunteering program (e.g., RSPCA or similar)",
+			"coordinator_comments": ""
+		},
+		{
+			"support_name": "Pain Management Group (community health service)",
+			"coordinator_comments": ""
+		},
+		{
+			"support_name": "Disability Employment Services (DES)",
+			"coordinator_comments": ""
+		}
+	],
+	"current_community_supports": [
+		{
+			"support_name": "Craft Group (weekly community-based)",
+			"progress_rating": "1|2|3|4|5",
+			"coordinator_comments": ""
+		},
+		{
+			"support_name": "GP (Dr Glen Craig) and Health Services",
+			"progress_rating": "1|2|3|4|5",
+			"coordinator_comments": ""
+		},
+		{
+			"support_name": "Exercise Physiology (Functional Health)",
+			"progress_rating": "1|2|3|4|5",
+			"coordinator_comments": ""
+		},
+		{
+			"support_name": "Psychologist (RFS with Denver)",
+			"progress_rating": "1|2|3|4|5",
+			"coordinator_comments": ""
+		},
+		{
+			"support_name": "Peers Program (awaiting intake)",
+			"progress_rating": "1|2|3|4|5",
+			"coordinator_comments": ""
+		}
+	],
+	"funded_supports": [
+		{
+			"support_budget": "Core Supports (Support Worker – Daily Activities)",
+			"meeting_needs_rating": "1|2|3|4|5",
+			"coordinator_comments": ""
+		},
+		{
+			"support_budget": "Capacity Building – Improved Daily Living (Occupational Therapy)",
+			"meeting_needs_rating": "1|2|3|4|5",
+			"coordinator_comments": ""
+		},
+		{
+			"support_budget": "Capacity Building – Health & Wellbeing (Exercise Physiology)",
+			"meeting_needs_rating": "1|2|3|4|5",
+			"coordinator_comments": ""
+		},
+		{
+			"support_budget": "Capacity Building – Improved Relationships (Psychology)",
+			"meeting_needs_rating": "1|2|3|4|5",
+			"coordinator_comments": ""
+		},
+		{
+			"support_budget": "Core Supports – Transport",
+			"meeting_needs_rating": "1|2|3|4|5",
+			"coordinator_comments": ""
+		},
+		{
+			"support_budget": "Capacity Building – Social Community Participation (Peers Program – pending)",
+			"meeting_needs_rating": "1|2|3|4|5",
+			"coordinator_comments": ""
+		}
+	],
+	"referrals_assessments": [
+		{
+			"assessment_type": "Occupational Therapy Assessment",
+			"status": "",
+			"expected_timeframe": "",
+			"barriers": ""
+		},
+		{
+			"assessment_type": "Psychological Report",
+			"status": "",
+			"expected_timeframe": "",
+			"barriers": ""
+		},
+		{
+			"assessment_type": "Speech Pathology Report",
+			"status": "",
+			"expected_timeframe": "",
+			"barriers": ""
+		},
+		{
+			"assessment_type": "Physiotherapy Assessment",
+			"status": "",
+			"expected_timeframe": "",
+			"barriers": ""
+		},
+		{
+			"assessment_type": "General Medical Report (GP)",
+			"status": "",
+			"expected_timeframe": "",
+			"barriers": ""
+		}
+	],
+	"safety_concerns": [
+		{
+			"concern_description": "Participant has limited social and community networks",
+			"actions_taken": "Linked and supported the participant to join their local Men’s Shed",
+			"future_actions": "Explore if a peer from the Men’s Shed can help with travel on bad weather days"
+		},
+		{
+			"concern_description": "",
+			"actions_taken": "",
+			"future_actions": ""
+		},
+		{
+			"concern_description": "",
+			"actions_taken": "",
+			"future_actions": ""
+		}
+	]
+}
+  
