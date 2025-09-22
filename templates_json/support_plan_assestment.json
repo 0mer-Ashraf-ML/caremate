@@ -1,0 +1,182 @@
+{
+    "participant_details": {
+      "privacy_consent": "verbal|documented",
+      "name": "",
+      "ndia_number": "",
+      "plan_start_date": "",
+      "plan_end_date": "",
+      "date_of_birth": "",
+      "gender": "",
+      "address": "",
+      "state": "",
+      "phone": "",
+      "email": "",
+      "preferred_contact_person": ""
+    },
+    "referral_details": {
+      "referral_date": "",
+      "participant_type": "new|returning",
+      "urgency": "non-urgent|urgent",
+      "urgent_reason": "",
+      "referred_by": "",
+      "referrer_contact": "",
+      "referrer_email": ""
+    },
+    "advocate_details": {
+      "name": "",
+      "relationship": "",
+      "address": "",
+      "phone": "",
+      "email": ""
+    },
+    "special_considerations": {
+      "alternate_communication": false,
+      "auslan": false,
+      "atsi": false,
+      "cald_interpreter": false,
+      "comments": ""
+    },
+    "services_requested": {
+      "services": "",
+      "specific_requirements": "",
+      "interests_requirements": ""
+    },
+    "formal_informal_supports": [
+      {
+        "organisation": "",
+        "contact_person": "",
+        "telephone": "",
+        "consent_to_share": true,
+        "comments": "",
+        "actions": ""
+      }
+    ],
+    "goals": [
+      {
+        "goal_number": 1,
+        "what_to_achieve": "",
+        "achieved_progressing": "yes|no",
+        "supports_needed": "",
+        "evidence_outcomes": ["", "", ""],
+        "barriers": ["", "", ""]
+      }
+    ],
+    "risk_assessment": {
+      "assessor": "",
+      "risks": [
+        {
+          "risk_type": "",
+          "risk_rating": "low|medium|high|critical",
+          "inclusion_required": false,
+          "identified_risk": "",
+          "how_goes_wrong": "",
+          "what_to_do": "",
+          "mitigation_plan": "",
+          "residual_likelihood": "",
+          "residual_consequence": "",
+          "residual_rating": "",
+          "review_timeframe": "3|6|9_months",
+          "review_date": "",
+          "review_outcome": ""
+        }
+      ]
+    },
+    "about_me": {
+      "about_me": "",
+      "key_people": "",
+      "goals": "",
+      "supports_needed": "",
+      "aspirations": "",
+      "likes": "",
+      "dislikes": "",
+      "support_worker_preferences": "",
+      "communication_style": "",
+      "preferred_language": "",
+      "emotional_support": "",
+      "beliefs_culture": ""
+    },
+    "health_details": {
+      "allergies": "",
+      "mobility": "",
+      "mealtime_management": "",
+      "pain_management": "",
+      "vision": "",
+      "hearing": "",
+      "bowel_urinary": "",
+      "medications": {
+        "independent": false,
+        "needs_assistance": false,
+        "fully_assisted": false
+      },
+      "health_care_plans": "",
+      "plan_date": ""
+    },
+    "behaviour_support": {
+      "support_info": "",
+      "plan_type": {
+        "behaviour_management": false,
+        "interim_positive_behaviour": false,
+        "comprehensive_behaviour": false,
+        "restrictive_practice": false
+      },
+      "last_plan_date": "",
+      "review_date": ""
+    },
+    "other_key_information": {
+      "additional_info": "",
+      "incident_procedure": "",
+      "on_call_manager": "",
+      "manual_handling": "",
+      "ohs_issues": "",
+      "behaviour_notes": "",
+      "incident_reporting": ""
+    },
+    "transition_plan": {
+      "assessing_staff": "",
+      "date": "",
+      "documents_attached": {
+        "ndis_plan": false,
+        "support_plan": false,
+        "behaviour_support_plan": false,
+        "other_reports": false
+      },
+      "transition_circumstances": "into_company|temporarily_out|exiting_service",
+      "transition_details": "",
+      "stakeholders": [
+        {
+          "name": "",
+          "position": "",
+          "organisation": "",
+          "role": "",
+          "consent_given": false
+        }
+      ],
+      "continuity_strategies": "",
+      "identified_risks": "",
+      "referrals_linkages": "",
+      "timeline_responsibilities": [
+        {
+          "action": "",
+          "responsibility": "",
+          "timeframe": ""
+        }
+      ],
+      "agreement": {
+        "all_parties_agree": false,
+        "copy_to_participant": false,
+        "copy_to_third_parties": false
+      },
+      "participant_informed": {
+        "rights_responsibilities": false,
+        "transition_risks": false,
+        "service_reentry": false,
+        "other_supports": false
+      },
+      "information_sharing_consent": true,
+      "participant_signature": "",
+      "participant_date": "",
+      "staff_signature": "",
+      "staff_date": ""
+    }
+  }
+  

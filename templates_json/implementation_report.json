@@ -1,0 +1,70 @@
+{
+    "participant_details": {
+      "name": "",
+      "ndis_number": "",
+      "plan_start_date": "",
+      "plan_end_date": ""
+    },
+    "provider_details": {
+      "provider_name": "",
+      "person_completing": "",
+      "phone": "",
+      "email": "",
+      "arrangement_type": "new|existing"
+    },
+    "engagement": {
+      "initial_contact_date": "",
+      "contact_frequency": "",
+      "nominated_contact": "",
+      "primary_contact_method": "",
+      "primary_contact_details": "",
+      "secondary_contact_method": "",
+      "secondary_contact_details": "",
+      "other_key_contact": "",
+      "other_key_contact_details": ""
+    },
+    "current_goals": [
+      {
+        "goal": "",
+        "next_steps": ""
+      }
+    ],
+    "referrals_assessments": [
+      {
+        "referral_type": "",
+        "actions_taken": "",
+        "barriers": "",
+        "future_actions": ""
+      }
+    ],
+    "community_mainstream_supports": [
+      {
+        "support_type": "",
+        "actions_taken": "",
+        "barriers": "",
+        "future_actions": ""
+      }
+    ],
+    "implementation_activities": {
+      "plan_funding_discussed": false,
+      "support_categories_discussed": false,
+      "fund_management_discussed": false,
+      "organising_supports_discussed": false,
+      "community_mainstream_role_discussed": false,
+      "myplace_portal_discussed": false,
+      "service_agreements_discussed": false,
+      "support_delivery_discussed": false
+    },
+    "conflicts_of_interest": {
+      "conflicts_exist": false,
+      "conflicts_disclosed": false,
+      "conflict_details": [
+        {
+          "conflict": "",
+          "management_strategy": ""
+        }
+      ]
+    },
+    "notes": ""
+  }
+  
